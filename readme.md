@@ -98,7 +98,7 @@ A selection of my personal work, including original projects and collaborative f
   <table align="center">
     <tr>
       <td align="center" valign="top">
-        <img height="185px" src="https://github-readme-stats.vercel.app/api?username=mnyando&hide=contribs&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff" alt="GitHub Stats" />
+        <img height="185px" src="https://github-readme-stats.vercel.app/api?username=mnyando&hide=contribs&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff" alt="GitHub Stats" />
       </td>
       <td align="center" valign="top">
         <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnyando&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" alt="Top Languages" />
@@ -113,10 +113,6 @@ A selection of my personal work, including original projects and collaborative f
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnyando&bg_color=0d1117&color=833ab4&line=e1306c&point=ffffff&hide_border=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mnyando&no-bg=true&no-frame=true&column=7&theme=radical" alt="Trophy card" />
 </p>
 
 ---
