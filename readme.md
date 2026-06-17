@@ -1,245 +1,124 @@
-<!-- 
+# Hi there, I'm Martin Nyandigisi 👋
 
-*** NOTES ***
-
-• All Github READMEs use Markdown formatting: https://guides.github.com/features/mastering-markdown/
-
-
-
--->
-
-
-<!-- 
-
-
-
-
-
-*** SECTION HEADERS ***
-
-• Created with Adobe Photoshop.
-
-• Light gray color for text so they would also show up in dark mode.
-
-• Text layers had transparent background layer and saved in PNG format.
-
-• Each text header was cropped with the same canvas width (1555 pixels), making them responsive when uploaded into the README.
-
-• Alternatives to Photoshop: https://picsart.com/  and  https://www.canva.com/
-
- -->
-
-
-### Hi there 👋 I am [Martin Nyandigisi]
-
-
-🟠 &nbsp;I'm looking to develop myself in **Various coding languages**.
-
-
-
-🟢 &nbsp;I'm currently learning **Java** and refreshing myself on  **Web Scripting**.
-
-🔵 &nbsp;I love Cybersecurity but i also code as a hobby.
-
-
-<!--  🟣 &nbsp;Fun Fact: He . -->
-
-
-<!-- 
-
-*** BIO SECTION ***
-
-• A single hashtag symbol (#) with an empty line above and below the symbol transforms into a horizontal break line between sections.
-
-• The HTML code / HTML entity for a non-breaking blank space character is &nbsp; (see color circles above)
-
-• HTML entities: https://www.w3schools.com/html/html_entities.asp#:~:text=A%20commonly%20used%20entity%20in,break%20into%20a%20new%20line).
-
--->
-
-<!--
-<a href="https:/https://fashion-store-tau.vercel.app/"><img src="https://img.shields.io/badge/Fashion-Store-yellow" height=30 width=100 alt="Fashion Store"> <a href="https://shaos-kitchen.netlify.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Shao's Kitchen Demo"> <a href="https://socialrecipe-kuria-byte.vercel.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Social Recipe Demo"> <a href="https://www.kmfoodscan.com/"><img src="https://img.shields.io/badge/project-demo-yellow" height=30 width=100 alt="Bombastic Demo">
-
-
--->
-
-<!-- 
-
-*** PROJECT DEMO SECTION ***
-
-• The Markdown Badge Cheat Sheet: https://github.com/Ileriayo/markdown-badges
-
-• Generating custom Markdown Badges: https://shields.io/
-
-• Logos and Hex color values for over 1800 brands: https://simpleicons.org/
-
-• If height and width attributes are added to the badge code, it will stretch/squeeze the logo word depending on its length.
-
-• The 6-digit Hex color value should be placed right after "%23" - For example, see "CozyNation-%23430098" in code below.
-
-PARSED PROJECT DEMO BADGES
-
-<a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> 
-
-<a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> 
-
-
--->
-
-
-<h2> Let's  Connect </h2>
-
-<p> <a href="https://discord.com/channels/@Mylles#4130"><img src="https://img.shields.io/badge/Discord-%238700f5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=30 width=100 alt="Discord badge"> <a href="matonyando@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/m_nyando/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge">  <a href="https://www.linkedin.com/in/martin-mylles-0738b02b6/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/Mnyandigisi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
-
-
-
-<!-- 
-
-*** LET'S CONNECT SECTION ***
-
-• The Markdown Badge Cheat Sheet: https://github.com/Ileriayo/markdown-badges
-
-• Generating custom Markdown Badges: https://shields.io/
-
-• Logos and Hex color values for over 1800 brands: https://simpleicons.org/
-
-• If height and width attributes are added to the badge code, it will stretch/squeeze the logo word depending on its length.
-
-• The 6-digit Hex color value should be placed right after "%23" - For example, see "youtube-%23FF0000" in code below.
-
-PARSED SOCIAL MEDIA BADGES
-
-<a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/twitter-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> 
-
-<a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> 
-
-
--->
-
-<h2>Github stats </h2>
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=mnyando&hide=contribs&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnyando&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
-
-
-<!-- 
-
-*** GITHUB STATS SECTION ***
-
-• Generating your custom Github stats: https://github.com/anuraghazra/github-readme-stats
-
-• Blog Resource: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
-
-• Height and width values for the stats cards should be even, not odd. Oddly, odd values did not work for me.
-
-PARSED GITHUB STATS CARDS
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Kuria-byte&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> 
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuria-byte&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" />
-
--->
-<h2> Technologies </h2>
-
-<p> <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/> <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
-<img src ="https://www.python.org/static/community_logos/python-logo.png" height=30 width=100/>
- <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/>
- <img src ="https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png" height=30 width=100/>
- <img src ="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" height=30 width=100/>
- <img src ="https://www.makotemplates.org/images/makoLogo.png" height=30 width=100/>
-
- <img src ="https://uploads.toptal.io/blog/image/125413/toptal-blog-image-1518523133236-d2bc894552c77f954f1e5ce48da6604d.png" height=30 width=100 />
-<img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/>
-<img src ="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&logo=bootstrap&logoColor=black" />
-<img src ="https://seekvectorlogo.net/wp-content/uploads/2018/12/heroku-vector-logo.png" height=30 width=100/>
-<img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> 
-<img alt="Flask" src ="https://user-images.githubusercontent.com/567298/52816968-216f6480-30ab-11e9-9d19-6418ba51563b.png" height=30 width=100/> 
-<img src ="https://static.djangoproject.com/img/logos/django-logo-positive.png" height=30 width=100/>
-<img src ="https://124135-361502-raikfcquaxqncofqfm.stackpathdns.com/asset/img/banners/blog/rest_api.png" height=30 width=100/>
+<p align="center">
+  <b>Cybersecurity Analyst · Full-Stack Developer · Nairobi, Kenya</b>
 </p>
 
-#
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=mnyando.mnyando"><img src="https://visitor-badge.laobi.icu/badge?page_id=mnyando.mnyando" alt="visitor badge"/></a>
+</p>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=martin-moringa.martin-moringa)
+Entry-level cybersecurity professional with a B.Sc. in Information Systems & Technology (Forensic IT & Cybercrime concentration). I work in SOC operations and threat detection during the day, and build full-stack web and Android applications as a hobby. Passionate about security, Python, and writing code that solves real problems.
 
-<!-- 
+---
 
-*** TECHNOLOGIES SECTION ***
+## 🔐 What I'm up to
 
-• The Markdown Badge Cheat Sheet: https://github.com/Ileriayo/markdown-badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Learning-Java-orange?style=flat-square&logo=java&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Studying-SOC%20%26%20Threat%20Detection-blueviolet?style=flat-square&logo=fortinet&logoColor=white" alt="Studying" />
+  <img src="https://img.shields.io/badge/Open%20to-Security%20%26%20Dev%20Collaborations-teal?style=flat-square" alt="Open to" />
+</p>
 
-• Generating custom Markdown Badges: https://shields.io/
+- 🛡️ Currently supporting ICT & cybersecurity operations at **ICED** (International Centre for Evaluation and Development)
+- 📚 Levelling up in **Java** and refreshing **web scripting** skills
+- 🔍 Certified in Google Cybersecurity, Cisco Ethical Hacker, CyberShujaa, and CAISR
+- 💻 Building Python/Flask web apps and Android safety apps on the side
 
-• Icon Resource 1: https://devicon.dev/
+---
 
-• Icon Resouce 2: https://icongr.am/devicon
+## 🚀 Projects
 
-• Logos and Hex color values for over 1800 brands: https://simpleicons.org/
+A selection of my personal work, including original projects and collaborative forks:
 
-• If height and width attributes are added to the badge code, it will stretch/squeeze the logo word depending on its length.
+| Project | Description | Stack | Link & Demo |
+| :--- | :--- | :--- | :--- |
+| 🛒 **Mama Mboga** | E-commerce platform for fresh organic produce, sourced from local farms | Python · Flask · HTML · JS · CSS | [GitHub](https://github.com/mnyando/GroceryShop) / [Live Demo](https://groceryshop-hjxm.onrender.com/) |
+| 🔧 **Car Parts Store** | Minimalist e-commerce storefront for automotive parts | Python · Flask | [GitHub](https://github.com/mnyando/car-parts) / [Live Demo](https://car-parts-nq47.onrender.com) |
+| 🚌 **Transport App** | Android app for child transportation safety monitoring and alerts | Java (Android) | [GitHub](https://github.com/mnyando/Transport-App) |
+| 🌐 **Portfolio Website** | Personal CV and portfolio — cybersecurity, networking & IT support | HTML · CSS · JS | [GitHub](https://github.com/mnyando/mnyando.github.io) / [Live Demo](https://mnyando.github.io/) |
+| ✍️ **D-Blog** | Flask blogging platform with comments and email subscription notifications <br> *Collaborative / learning project (Fork)* | Python · Flask · Mako | [GitHub](https://github.com/mnyando/D-Blog) / [Live Demo](https://mikeydblog.herokuapp.com/) |
+| 📸 **Picture Globe** | Django photo gallery with image sharing and social links <br> *Collaborative / learning project (Fork)* | Python · Django · HTML | [GitHub](https://github.com/mnyando/Picture-Globe) / [Live Demo](https://picturesharen.herokuapp.com) |
 
-• The 6-digit Hex color value should be placed right after "%23" - For example, see "rails%20-%23CC0000" in code below.
+---
 
-PARSED TECHNOLOGIES BADGES
+## 🛠️ Technologies & Skills
 
-<img alt="Rails badge" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" height=30 width=100/> 
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-<img alt="Ruby badge" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" height=30 width=100/> 
+### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-<img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>  
+### 🗄️ Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+</p>
 
-<img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
+### 🛡️ Cybersecurity
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white" alt="MITRE ATT&CK" />
+</p>
 
-<img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/> 
+---
 
-<img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
+## 📜 Certifications
 
-<img alt="Photoshop badge" src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height=30 width=100/> 
+- 🏅 **HCIA-Security V4.0** — Huawei Technologies (Jun 2026)
+- 🛡️ **Security Analyst – CyberShujaa (Cohort XI)** — USIU-Africa & Serianu Ltd (Apr 2026)
+- 🤖 **Certified AI Security & Risk (CAISR)** — Red Team Leaders (Feb 2026)
+- ⚔️ **Cisco Ethical Hacker** — Cisco Networking Academy (Mar 2025)
+- 🧠 **Code Generation & Optimization Using IBM Granite** — IBM SkillsBuild (Mar 2025)
+- 🌐 **Google Cybersecurity Professional Certificate** — Google (Feb 2025)
+- 🎯 **Foundations of Operationalizing MITRE ATT&CK v13** — AttackIQ (Feb 2025)
 
-<img alt="Lightroom badge" src="https://img.shields.io/badge/lightroom%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20lightroom&logoColor=white" height=30 width=100/> 
+---
 
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/> 
+## 📊 GitHub Stats & Metrics
 
-<img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/> 
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mnyando&hide=contribs&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff" alt="Stats card" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnyando&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff" alt="Top languages card" />
+</p>
 
-<img alt="SQLite badge" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=30 width=100/> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=mnyando&hide_border=true&background=0,405de6,833ab4,e1306c&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak card" />
+</p>
 
-<img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnyando&bg_color=0d1117&color=833ab4&line=e1306c&point=ffffff&hide_border=true" alt="Activity graph" />
+</p>
 
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mnyando&no-bg=true&no-frame=true&column=7&theme=radical" alt="Trophy card" />
+</p>
 
-<!-- 
+---
 
-• My personal badges were "Ruby, Rails, JavaScript, React, Redux, Photoshop, Lightroom, PostgreSQL, SQL, Github/Git, Semantic UI, SQLite, CSS" 
+## 🤝 Let's Connect
 
-• I omitted Semantic UI to have even number of badges (better aesthetic when resized).
-
--->
-
-<!-- 
-
-*** Alternative Two-Tone Badge Style ***
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-
-
-
-<!-- 
-
-*** COMPREHENSIVE LIST OF GITHUB PROFILE README RESOURCES ***
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
-
-
-
-
-
-<!-- 
-
-
-
-
-
-
-#
+<p align="center">
+  <a href="mailto:matonyando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/martin-mylles-0738b02b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Mnyandigisi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/m_nyando/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" /></a>
+  <a href="https://discord.com/channels/@Mylles#4130"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" /></a>
+</p>
