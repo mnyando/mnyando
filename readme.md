@@ -147,11 +147,7 @@ open_to:   Security & development collaborations
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnyando/mnyando/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnyando/mnyando/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mnyando/mnyando/output/github-snake.svg" alt="Contribution snake animation" />
-  </picture>
+  <img src="https://ghchart.rshah.org/e1306c/mnyando" alt="Contribution calendar" />
 </p>
 
 ---
