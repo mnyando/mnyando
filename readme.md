@@ -157,8 +157,6 @@ open_to:   Security & development collaborations
 <p align="center">
   <a href="mailto:matonyando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/martin-mylles-0738b02b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Mnyandigisi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X (Twitter)" /></a>
-  <a href="https://www.instagram.com/m_nyando/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" /></a>
   <a href="https://discord.com/channels/@Mylles#4130"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" /></a>
   <a href="https://mnyando.github.io/"><img src="https://img.shields.io/badge/Portfolio-405DE6?style=for-the-badge&logo=githubpages&logoColor=white" height="35" alt="Portfolio" /></a>
 </p>
